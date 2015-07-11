@@ -1,0 +1,4 @@
+name			= Zhaoyanw Admin
+description		= Admin theme by dev.zhaoyanw.com
+core			= 7.x
+base theme		= adminimal
